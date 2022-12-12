@@ -1,0 +1,6 @@
+[submodule "memories-server"]
+	path = memories-server
+	url = https://github.com/ben842002/memories-server
+[submodule "memories-client"]
+	path = memories-client
+	url = https://github.com/ben842002/memories-client
